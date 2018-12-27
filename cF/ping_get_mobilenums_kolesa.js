@@ -94,7 +94,7 @@ function nexthelper(num){
 			function() {
 				console.log('heeeeeeeeey error here2');
 			},
-		180000);
+		60000);
 	});
 
 }

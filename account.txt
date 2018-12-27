@@ -6,3 +6,4 @@ heroku login: dr.purpose@yandex.ru
 heroku password: dr.purpose@yandex.ru
 mongolab login: kolesadb
 mongolab password: posmotrim2018
+git: kizikinfo@gmail.com
