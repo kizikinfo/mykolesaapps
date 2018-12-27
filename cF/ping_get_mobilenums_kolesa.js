@@ -108,7 +108,7 @@ function recurse(_n){
 		console.log('endofstrar');
 	}else{
 		casper.thenOpen('https://kolesa.kz/a/show/'+strar[_n-1], function(){
-			this.waitForSelector(xpath('(//div[@class="show-phones action-link showPhonesLink"])'), 
+			this.waitForSelector(xpath('(//div[@class="show-phones action-link showPhonesLink"]|//span[@class="show-phones"])'), 
 				function() {
 					console.log('one car page opened');	
 					var ddd = this.evaluate(function(numm){
