@@ -1,0 +1,8 @@
+bitbucket repo, heroku app name: mykolesaapps
+email: mykolesaapps@mail.ru
+pingometer login: mykolesaapps@mail.ru
+pingometer password: mykolesaapps@mail.ru
+heroku login: dr.purpose@yandex.ru
+heroku password: dr.purpose@yandex.ru
+mongolab login: kolesadb
+mongolab password: posmotrim2018
