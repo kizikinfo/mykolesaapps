@@ -23,7 +23,7 @@ var xpath = require('casper').selectXPath;
 
 
 var str = '', n, strar = [];
-var url = 'https://kolesa.kz/cars/region-almatinskaya-oblast/';
+var url = 'https://kolesa.kz/cars/region-akmolinskaya-oblast/';
 
 openProfile();
 
